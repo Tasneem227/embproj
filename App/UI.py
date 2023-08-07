@@ -33,7 +33,7 @@ class UI:
             
     def main(self):
         Gtk.main()
-            
+   
 if __name__=="__main__":
     ui = UI()
     ui.main()
